@@ -1,0 +1,48 @@
+{
+  "name": "Letokweb",
+  "title": "Letok - website",
+  "description": "Letok is an sass, for every woman in world, offering easy way to look amazing and wear what they want to not what they can afford.",
+  "url": "http://letokapps.com",
+  "author": "Kinga Wacławik",
+  "homepage": "https://github.com/kingawaclawik/letok",
+  "copyright": "2015",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingawaclawik/letok.git"
+  },
+  "engines": {
+    "node": ">=0.10.28"
+  },
+  "devDependencies": {
+    "glob": "~3.2.11",
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~0.7.6",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-compress": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-imagemin": "~0.9.3",
+    "grunt-contrib-jade": "~0.11.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "^0.9.0",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-contrib-uglify": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-jsonlint": "~1.0.4",
+    "grunt-karma": "~0.8.3",
+    "grunt-nexus-artifact": "~0.3.7",
+    "grunt-ngdocs": "~0.2.7",
+    "grunt-ngmin": "0.0.3",
+    "grunt-notify": "~0.4.1",
+    "grunt-release": "^0.7.0",
+    "grunt-stripmq": "0.0.6",
+    "grunt-webfont": "~0.4.8",
+    "less": "^1.7.0",
+    "load-grunt-tasks": "~0.2.1",
+    "time-grunt": "~0.2.10"
+  }
+}
